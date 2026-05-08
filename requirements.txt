@@ -1,0 +1,11 @@
+google-genai
+pandas
+numpy
+matplotlib
+seaborn
+sentence-transformers
+scikit-learn 
+rank-bm25
+imbalanced-learn
+python-docx
+streamlit
